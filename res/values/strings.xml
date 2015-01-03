@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">set</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="menu">
+        <item>Eventos</item>
+        <item>Oradores</item>
+        <item>Calendário</item>
+        <item>Como Chegar</item>
+        <item>Set</item>
+    </string-array>
+
+    <string name="drawer_open">Menu Aberto</string>
+    <string name="drawer_closed">Menu Fechado</string>
+    <string name="gps">GPS</string>
+    <string name="title_activity_actifvity_main">MainActivity</string>
+
+</resources>
